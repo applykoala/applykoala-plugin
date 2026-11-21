@@ -1,0 +1,15 @@
+{
+  "name": "applykoala",
+  "owner": {
+    "name": "ApplyKoala",
+    "url": "https://applykoala.com"
+  },
+  "plugins": [
+    {
+      "name": "applykoala",
+      "source": "./",
+      "description": "Job search with Claude Code: find jobs, research companies, track applications, practise interviews."
+    }
+  ],
+  "description": "ApplyKoala: job search with Claude Code."
+}

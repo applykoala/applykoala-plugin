@@ -1,0 +1,21 @@
+{
+  "name": "applykoala",
+  "version": "1.0.0",
+  "description": "Job search with Claude Code: find jobs that fit your resume, research companies, track applications and practise interviews. Everything is saved in ApplyKoala, so you can see it on your board at applykoala.com.",
+  "author": {
+    "name": "ApplyKoala",
+    "url": "https://applykoala.com"
+  },
+  "homepage": "https://applykoala.com/mcp",
+  "repository": "https://github.com/applykoala/applykoala-plugin",
+  "license": "MIT",
+  "keywords": [
+    "job-search",
+    "job-tracker",
+    "resume",
+    "interview",
+    "career",
+    "mcp"
+  ],
+  "privacyPolicyUrl": "https://applykoala.com/privacy"
+}

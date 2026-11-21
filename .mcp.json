@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "applykoala": {
+      "type": "http",
+      "url": "https://applykoala.com/mcp"
+    }
+  }
+}
